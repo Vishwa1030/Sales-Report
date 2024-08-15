@@ -12,10 +12,3 @@ The objective of this project is to analyze Amazon's sales data to gain insights
 3. scripts/: Python scripts for data processing, analysis, and visualization.
 4. reports/: Contains the final report summarizing the key findings, insights, and recommendations.
 README.md: This file, providing an overview of the project and instructions for use.
-
-# Installation
-To run the analysis locally, you'll need to set up a Python environment with the required dependencies. Here's how you can do it:
-
-1. Clone the repository:
-    git clone https://github.com/yourusername/amazon-sales-analysis.git
-    cd amazon-sales-analysis
