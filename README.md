@@ -13,8 +13,8 @@ The objective of this project is to analyze Amazon's sales data to gain insights
 5. Geographical Analysis: Explore the distribution of sales across different regions to identify areas of high demand and growth potential.
 6. Business Recommendations: Provide actionable insights and recommendations to improve overall business performance based on the analysis.
 # Project Structure
-1. data/: Contains the raw and processed datasets used for analysis.
-2. notebooks/: Jupyter notebooks detailing the data analysis and visualization processes.
-3. scripts/: Python scripts for data processing, analysis, and visualization.
-4. reports/: Contains the final report summarizing the key findings, insights, and recommendations.
+1. data : Contains the raw and processed datasets used for analysis.
+2. notebooks : Jupyter notebooks detailing the data analysis and visualization processes.
+3. scripts : Python scripts for data processing, analysis, and visualization.
+4. reports : Contains the final report summarizing the key findings, insights, and recommendations.
 README.md: This file, providing an overview of the project and instructions for use.
