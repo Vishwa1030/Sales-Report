@@ -176,9 +176,9 @@ Average delay will change if different visual filters will be applied.
          
 ### Sales Type
 
-3.1) 56.36 % Sales have Sale type 'ship-state'.
+2.1) 56.36 % Sales have Sale type 'ship-state'.
 
-3.2) 56.44 % sales have Sale type 'ship-city'.
+2.2) 56.44 % sales have Sale type 'ship-city'.
        
        thus, more customers have customer type 'ship-city'.
 
